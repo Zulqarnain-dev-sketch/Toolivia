@@ -1,69 +1,73 @@
-# 🧰 Toolivia
+# Welcome to your Lovable project
 
-**All Your Essential Tools in One Place**  
-Access calculators, converters, and utilities designed for speed, accuracy, and simplicity — no sign-up required.
+## Project info
 
----
+**URL**: https://lovable.dev/projects/2b6ef454-34b5-4063-802d-68ad4626a8a5
 
-## 🌐 Live Demo
-🔗 [Visit Toolivia](https://toolivia.netlify.app)
+## How can I edit this code?
 
----
+There are several ways of editing your application.
 
-## 🧑‍💻 About This Project
-Toolivia is a collection of **everyday online tools** built to help users perform quick calculations, conversions, and text or image operations — all from a single clean interface.  
-The goal was to create a **fast, lightweight, and user-friendly web app** where users don’t need to switch between multiple websites.
+**Use Lovable**
 
----
+Simply visit the [Lovable Project](https://lovable.dev/projects/2b6ef454-34b5-4063-802d-68ad4626a8a5) and start prompting.
 
-## ⚙️ Key Features
-- 🧮 **Smart Calculators** — BMI, Age, GST, and more  
-- 🔁 **Converters** — Units, currency, and text tools  
-- 🖼️ **Image Tools** — Resize, compress, and format converters  
-- 🔍 **SEO Tools** — Meta tag generator, keyword counter  
-- ⚡ **No Login Required** — All tools available instantly  
-- 🌙 **Modern UI** — Responsive layout for mobile and desktop  
-- 🚀 **Optimized Performance** — Fast loading and simple navigation  
+Changes made via Lovable will be committed automatically to this repo.
 
----
+**Use your preferred IDE**
 
-## 🧠 Tech Stack
-**Frontend:** HTML5, CSS3, JavaScript (Vanilla)  
-**Hosting:** Netlify  
-**Version Control:** Git & GitHub  
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
----
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-## 🕒 Development Timeline
-- **Started:** January 2024  
-- **Initial Release:** March 2024  
-- **Latest Update:** November 2025  
-Toolivia is still being maintained and expanded with new tools and improved UI features.  
+Follow these steps:
 
----
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-## 🧩 Future Improvements
-- Add user history tracking for tools  
-- Introduce dark/light mode toggle  
-- Add more advanced SEO & AI-based tools  
-- Build backend API for saving preferences  
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
----
+# Step 3: Install the necessary dependencies.
+npm i
 
-## 👨‍💻 Developer
-**Developed by:** Zulqarnain  
-💼 Web Developer | Web Designer | Cybersecurity Enthusiast  
-📫 [Contact Me](zakiawan978@gmail.com)  
-🌐 [Portfolio (Coming Soon)]
-🌐 website [(https://toolivia.netlify.app)]
-🐙 [GitHub](https://github.com/Zulqarnain-dev-sketch)
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
----
+**Edit a file directly in GitHub**
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
----
+**Use GitHub Codespaces**
 
-⭐ **If you like this project, consider giving it a star!**
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
+## What technologies are used for this project?
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/2b6ef454-34b5-4063-802d-68ad4626a8a5) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
